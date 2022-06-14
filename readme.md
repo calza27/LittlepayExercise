@@ -9,7 +9,7 @@ To run the program, compile using your preferred method, or there is an execuata
 If running from the executable jar provided the windows command to do so is: java -jar App.jar
 Programs runs in the command line.
 The program accepts two arguments.
-	The first is the path to the input csv file of taps
-	The second is the desired path of the output file the program will generate.
+	-The first is the path to the input csv file of taps
+	-The second is the desired path of the output file the program will generate.
 
 Program can be run wihtout these arguments, in which case the program will prmopt the user for input for these two paths.
