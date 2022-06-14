@@ -1,6 +1,10 @@
 package OrderMonkey.LittlepayExercise.DataObjects.Route;
 
 public class Route {
+	public static final String STOP_1 = "Stop1";
+	public static final String STOP_2 = "Stop2";
+	public static final String STOP_3 = "Stop3";
+	
 	private String fromStopId;
 	private String toStopId;
 	private Double charge; //storing the charge as a double that represents the number of cents eg. 330 = $3.30
