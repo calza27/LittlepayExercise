@@ -5,7 +5,7 @@ Littlepay Technical Interview submission
 	
 	The program takes in a csv file of tap data, and generates an output CSV of trip information
 	
-	To run the program, compile using your preferred method and then run the resulting jar, or there is an execuatable jar provided in the bin folder.
+	To run the program, compile using your preferred method and then run the resulting jar, or there is an execuatable jar provided in the bin folder. If running from the executable jar provided the windows command to do so is ```java -jar App.jar```
 	Programs runs in the command line.
 	The program accepts two arguments.
 		The first is the path to the input csv file of taps
