@@ -18,4 +18,4 @@ Programs runs in the command line, and accepts two arguments.
 
 Program can be run wihtout these arguments, in which case the program will prmopt the user for input for these two paths.
 
-There is a sample taps file provided in the data directory; taps.csv
+There is a sample input file provided in the data directory; taps.csv
